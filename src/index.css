@@ -22,3 +22,23 @@ h3,
 h4 {
   font-family: "Quicksand", sans-serif;
 }
+.Home {
+  border-top: 5px solid #fff;
+  background-image: url(./img/office1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 88vh;
+  background-color: steelblue;
+}
+.RegForm {
+  margin-top: 3rem;
+}
+.RegForm h1 {
+  color: #17a2b8;
+}
+th {
+  font-size: 1.5rem;
+  color: #17a2b8;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
